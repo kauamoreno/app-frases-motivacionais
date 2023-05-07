@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'MenuBurger.dart';
 
 class PaginaHome extends StatefulWidget {
   const PaginaHome({Key? key}) : super(key: key);
@@ -25,6 +26,7 @@ class _PaginaHomeState extends State<PaginaHome> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      drawer: MenuBurger(),
       appBar: AppBar(
         title: Text('Frases do dia'),
       ),
