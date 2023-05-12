@@ -12,7 +12,8 @@ Com este projeto, os usuários podem receber uma dose diária de motivação e i
 
 ## ScreenShot
 
-![app](https://user-images.githubusercontent.com/119445003/236466661-22fc3dc6-438f-47b0-a1b6-e9047bbe37a5.png)
+![app1](https://github.com/kauamoreno/app-frases-motivacionais/assets/119445003/356cbf46-e0c4-4f2f-a7b2-238718df2721)
+![app2](https://github.com/kauamoreno/app-frases-motivacionais/assets/119445003/e35b2628-2c04-4484-a7fc-3226df92bdfb)
 
 
 
